@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Agrawal</h1>
-- 🌱 I’m currently learning **React,Django,MangoDB**
+- 🌱 I’m currently learning **React,Django,MongoDB**
 
 - 💬 Ask me about **HTML,CSS,JS**
 
